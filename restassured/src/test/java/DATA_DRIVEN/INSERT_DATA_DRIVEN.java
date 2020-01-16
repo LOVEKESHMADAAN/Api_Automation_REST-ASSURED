@@ -58,20 +58,6 @@ public class INSERT_DATA_DRIVEN {
 		return data;
 	}
 
-	@Test
-	void setdata() throws Exception
-	{
-		String path = Config_file.getConfigValue("url");
-		try
-        { 
-		UTILITY_CLASS.setCellData(path,"Sheet3", 5, 0, "212");
-		UTILITY_CLASS.setCellData(path,"sheet3", 1, 1, "love");
-		UTILITY_CLASS.setCellData(path,"sheet3", 1, 2, "job1");
-        }
-		catch (NullPointerException e) {
-			// TODO: handle exception
-		}
-	}
-
+	
 
 }
