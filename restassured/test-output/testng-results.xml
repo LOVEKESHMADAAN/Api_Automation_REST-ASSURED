@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-16T05:27:12Z" name="Default suite" finished-at="2020-01-16T05:27:20Z" duration-ms="8076">
+    <groups>
+    </groups>
+    <test started-at="2020-01-16T05:27:12Z" name="Default test" finished-at="2020-01-16T05:27:20Z" duration-ms="8076">
+      <class name="DATA_DRIVEN.INSERT_DATA_DRIVEN">
+        <test-method signature="insert_details(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DATA_DRIVEN.INSERT_DATA_DRIVEN@75db5df9]" started-at="2020-01-16T05:27:14Z" name="insert_details" data-provider="insert" finished-at="2020-01-16T05:27:17Z" duration-ms="3444" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[LOVEKESH]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AUTOMATION]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[201]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insert_details -->
+        <test-method signature="insert_details(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DATA_DRIVEN.INSERT_DATA_DRIVEN@75db5df9]" started-at="2020-01-16T05:27:17Z" name="insert_details" data-provider="insert" finished-at="2020-01-16T05:27:18Z" duration-ms="1181" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHIRAG]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AUTOMATION]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[201]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insert_details -->
+        <test-method signature="insert_details(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DATA_DRIVEN.INSERT_DATA_DRIVEN@75db5df9]" started-at="2020-01-16T05:27:18Z" name="insert_details" data-provider="insert" finished-at="2020-01-16T05:27:19Z" duration-ms="965" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MEHUL]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AUTOMATION]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[201]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insert_details -->
+        <test-method signature="insert_details(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DATA_DRIVEN.INSERT_DATA_DRIVEN@75db5df9]" started-at="2020-01-16T05:27:19Z" name="insert_details" data-provider="insert" finished-at="2020-01-16T05:27:20Z" duration-ms="980" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ANKIT ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AUTOMATION]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[201]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insert_details -->
+        <test-method signature="setdata()[pri:0, instance:DATA_DRIVEN.INSERT_DATA_DRIVEN@75db5df9]" started-at="2020-01-16T05:27:20Z" name="setdata" finished-at="2020-01-16T05:27:20Z" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setdata -->
+      </class> <!-- DATA_DRIVEN.INSERT_DATA_DRIVEN -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
